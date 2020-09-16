@@ -1,5 +1,5 @@
 {
-  "name": "avgeek",
+  "name": "client",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,5 +8,7 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
 }
